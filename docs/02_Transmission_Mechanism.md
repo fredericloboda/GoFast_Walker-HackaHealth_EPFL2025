@@ -1,4 +1,4 @@
-# 03 — Transmission Mechanism
+# 02 — Transmission Mechanism
 
 ## 1. Objective
 
