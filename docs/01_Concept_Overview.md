@@ -59,10 +59,12 @@
 ---
 
 ## References to Detailed Docs
-- `02_Structural_Design.md` — frame, columns, materials  
-- `03_Transmission_Mechanism.md` — shafts, gears, counter-rotation  
-- `07_Assembly_Guide.md` — step-by-step build  
-- `08_Testing_and_Validation.md` — checks & results  
+- `02_Transmission_Mechanism.md`
+- `03_Brake_and_Control_System.md`
+- `04_Ergonomics_Safety.md`
+- `05_Material_Specifications.md` 
+- `06_Assembly_Guide.md` 
+- `07_Testing_and_Validation.md` 
 - See also: `00_Summary.md` for team, notes, and brainstorming log.
 
 ---
