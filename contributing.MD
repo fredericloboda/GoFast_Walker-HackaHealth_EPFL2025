@@ -7,21 +7,21 @@ This repository documents the collaborative work of the **HackaHealth EPFL 2025 
 ## Team & Roles
 
 | Name | Role(s) |
-|------|----------|
-| **Baptiste** | Project Manager / Mentor, Lead Asynchronous Motion, Presentation |
-| **Christophe** | Documentation, Asynchronous Motion, Lead Project B |
-| **Fabio** | Development-Lead Linkage, Asynchronous Motion |
-| **Jade** | Co-Lead Asynchronous Motion & Mechanism Design, Lead Presentation |
-| **Amine** | Co-Lead Linkage (CAD Systems), Asynchronous Motion, Documentation |
-| **Frédéric** | Lead Documentation & GitHub Maintenance, Asynchronous Motion, Presentation |
-| **Mostafa** | Asynchronous Motion & Mechanism Design |
+|------|---------|
+| **Baptiste Bühler** | Project Manager / Mentor, Lead Asynchronous Motion, Presentation |
+| **Christophe Deloose** | Documentation, Asynchronous Motion, Lead Project B |
+| **Fabio Casiraghi** | Development-Lead Linkage, Asynchronous Motion |
+| **Jade Therass** | Co-Lead Asynchronous Motion & Mechanism Design, Lead Presentation |
+| **Amine Mohamed Benzarti** | Co-Lead Linkage (CAD Systems), Asynchronous Motion, Documentation |
+| **Frédéric Loboda** | Lead Documentation & GitHub Maintenance, Asynchronous Motion, Presentation |
+| **Mostafa Zaki** | Asynchronous Motion & Mechanism Design |
 | **Christian** | Inspiration, Passion, Conceptual Vision, Core Ideas |
 
 ---
 
-## Philosophy
+## Philosophie
 
-
+> **« La coutume est une seconde nature qui détruit la première. » — Blaise Pascal**  
 
 ---
 
