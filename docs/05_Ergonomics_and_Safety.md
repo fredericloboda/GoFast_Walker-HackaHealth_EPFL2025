@@ -1,6 +1,6 @@
 # 05_Ergonomics_and_Safety
 
-**Editor** 
+**Editor** :
 
 ## Ergonomics (Baseline)
 This document records only the existing/original walker ergonomics. No new ergonomics are introduced here.
