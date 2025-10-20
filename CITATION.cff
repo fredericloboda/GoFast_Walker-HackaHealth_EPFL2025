@@ -1,0 +1,78 @@
+cff-version: 1.2.0
+message: >
+  If you use this repository, please cite it using the metadata below.
+title: "GoFast Walker: Adaptive Asynchronous Rehabilitation Mechanism — HackaHealth EPFL 2025"
+type: generic
+version: "v1.0.0"
+date-released: 2025-10-20
+license: "MIT AND CC-BY-NC-4.0"
+repository-code: "https://github.com/fredericloboda/GoFast_Walker-HackaHealth_EPFL2025"
+doi: ""
+
+# Full contributors for indexing/credit (includes Christian)
+authors:
+  - family-names: "Bühler"
+    given-names: "Baptiste"
+  - family-names: "Casiraghi"
+    given-names: "Fabio"
+  - family-names: "Loboda"
+    given-names: "Frédéric"
+    orcid: "https://orcid.org/0009-0003-9749-6670"
+  - family-names: "Benzarti"
+    given-names: "Amine Mohamed"
+  - family-names: "Zaki"
+    given-names: "Mostafa"
+  - family-names: "Therass"
+    given-names: "Jade"
+  - family-names: "Deloose"
+    given-names: "Christophe"
+  - name: "Christian"   # concept originator 
+
+keywords:
+  - rehabilitation engineering
+  - open hardware
+  - assistive technology
+  - mechanical design
+  - asynchronous motion
+  - gait
+  - EPFL
+  - HackaHealth
+
+abstract: >
+  Open-hardware rehabilitation project (HackaHealth EPFL 2025) implementing an adaptive,
+  asynchronous walker mechanism to promote coordinated arm–leg motion, stability,
+  and low-noise operation. Repository includes CAD, build documentation, and media.
+
+# Short display citation (group author is fine for tool UIs)
+preferred-citation:
+  type: report
+  title: "GoFast Walker: Adaptive Asynchronous Rehabilitation Mechanism — HackaHealth EPFL 2025"
+  authors:
+    - name: "GoFast Walker Team"
+  year: 2025
+  month: 10
+  day: 20
+  version: "v1.0.0"
+  url: "https://github.com/fredericloboda/GoFast_Walker-HackaHealth_EPFL2025"
+  notes: |
+    OFFICIAL FORMATS (Christian intentionally excluded per team request; add DOI when minted):
+
+    APA 7th
+    Bühler, B., Casiraghi, F., Loboda, F., Benzarti, A. M., Zaki, M., Therass, J., & Deloose, C. (2025, October 20).
+    GoFast Walker: Adaptive Asynchronous Rehabilitation Mechanism — HackaHealth EPFL 2025 (v1.0.0)
+    [Open-hardware mechanical design repository]. GitHub.
+    https://github.com/fredericloboda/GoFast_Walker-HackaHealth_EPFL2025
+    https://doi.org/10.xxxx/xxxxx
+
+    IEEE
+    B. Bühler, F. Casiraghi, F. Loboda, A. M. Benzarti, M. Zaki, J. Therass, and C. Deloose,
+    "GoFast Walker: Adaptive Asynchronous Rehabilitation Mechanism — HackaHealth EPFL 2025,"
+    ver. 1.0.0, Oct. 20, 2025. [Online]. Available:
+    https://github.com/fredericloboda/GoFast_Walker-HackaHealth_EPFL2025. doi: 10.xxxx/xxxxx.
+
+    Vancouver (ICMJE)
+    Bühler B, Casiraghi F, Loboda F, Benzarti AM, Zaki M, Therass J, Deloose C.
+    GoFast Walker: Adaptive Asynchronous Rehabilitation Mechanism — HackaHealth EPFL 2025 [Internet].
+    Version 1.0.0. 2025 Oct 20. Available from:
+    https://github.com/fredericloboda/GoFast_Walker-HackaHealth_EPFL2025
+    doi:10.xxxx/xxxxx
